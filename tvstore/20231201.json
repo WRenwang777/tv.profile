@@ -1,0 +1,12 @@
+{
+    "urls": [
+      {
+          "url": "https://jihulab.com/my-program/zhiboyuan/-/raw/main/zhiboyuan.txt",
+          "name": "直播源1号"
+      },
+      {
+          "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+          "name": "直播源2号"
+      }
+  ]
+}
